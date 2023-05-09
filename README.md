@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m @Akanksha2102
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Node js
-- 💞️ I’m looking to collaborate on ... Web development
+- 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me ... my email id--> akankshachauhan2102@gmail.com
 
 <!---
